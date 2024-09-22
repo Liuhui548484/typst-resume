@@ -41,9 +41,9 @@
   "学习成绩优秀，大一绩点：4.2，4.0，大二绩点：3.9，3.62", 在电路原理上获得90分，C语言的编程上获得98分
   "2022.09 -- 2026.06（预计）"
 )
-#resume_section("发表论文")         
-- [2024.8]*刘辉*，梁爱华—— 复杂光照环境下基于机器视觉的智能机器人循迹控制，《_第二十八届网络新技术与应用年会_》，已录取，第一作者.
-- [2024.9]*刘辉*，黄熙元，谷嘉城，史俊杰，冯童童，何宁—— TCDformer-based Momentum Transfer Model for Long-term Sports Prediction，《_Expert Systems with Applications_》 ，在审，第一作者.
+#resume_section("发表论文")             
+- [2024.8]*刘辉*，梁爱华—— 复杂光照环境下基于机器视觉的智能机器人循迹控制，*第二十八届网络新技术与应用年会*，已录取，第一作者.
+- [2024.9]*刘辉*，黄熙元，谷嘉城，史俊杰，冯童童，何宁—— TCDformer-based Momentum Transfer Model for Long-term Sports Prediction，*Expert Systems with Applications* ，在审，第一作者.
 #resume_section([项目经历])
 #resume_item(
   "高性能无人机的洪涝救援系统",
