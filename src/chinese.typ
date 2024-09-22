@@ -38,17 +38,18 @@
 #resume_item(
   "北京联合大学城市轨道交通与物流学院",
   "本科生 | 电气工程及其自动化",  
-  "学习成绩优秀，大一绩点：4.2，4.0，大二绩点：3.9，3.62, 电路原理90分，C语言的编程98分",
-  "2022.09 -- 2026.06（预计）"
+  "学习成绩优秀，大一绩点：4.2，4.0，大二绩点：3.9，3.62, 电路原理90分，C语言编程98分",
+  " "
 )
+
 #resume_section("发表论文")
 
 - [2024.8]*刘辉*，梁爱华—— 复杂光照环境下基于机器视觉的智能机器人循迹控制，《_*第二十八届网络新技术与应用年会*_》，已录取，第一作者.
-- [2024.9]*Hui Liu*，Xiyuan Huang，Jiacheng Gu，Junjie Shi，Tongtong Feng，Ning He—— TCDformer-based Momentum Transfer Model for Long-term Sports Prediction，《_*Expert Systems with Applications*_》 ，With Editor，First Author.
+- [2024.9]*Hui Liu*，Xiyuan Huang，Jiacheng Gu，Junjie Shi，Tongtong Feng，Ning He---TCDformer-based Momentum Transfer Model for Long-term Sports Prediction,"_*Expert Systems with Applications*_" ,Under Review,First Author.
 #resume_section([项目经历])
 #resume_item(
   "高性能无人机的洪涝救援系统",
-  "项目负责人，主要完成人",
+  "*项目负责人*，主要完成人",         
   [挑战杯、互联网+项目],  
   "2024.1 -- 2024.7"
 )
@@ -56,11 +57,11 @@
 
 #resume_desc(
   "项目简介",
-  "用于洪涝救援的高性能无人机，具备快速部署、高可靠性和长效作业能力，结合多模态感知和智能导航技术，实现复杂环境下的精准监测、评估和搜救。"
+  "搭建了“高性能无人机的洪涝救援系统”。 在GPS拒止的条件下，通过卫星－无人机跨视角定位和多模态智能导航技术，实现洪涝救援场景中无人机精准定位、监测、评估和搜救等高可靠工作。"
 )
 #resume_desc(
   "承担工作",
-  [文献调研，算法设计与一部分实验，结论总结与报告编写。]
+  [文献调研，算法设计与实验验证，结论总结与报告编写。]
 )
 #resume_desc(
   "项目成果",
@@ -77,11 +78,11 @@
 
 #resume_desc(    
   "编程语言",
-  [熟练C、C++、python等语言，获得了C语言的计算机二级证书]
+  [熟练C、C++、Python等语言，获得了C语言的计算机二级证书]
 )
 #resume_desc(
   "开发工具",    
-  [能够较为熟练的使用Visio、Visual studio、overleaf、Origin、PyCharm等工具]    
+  [能够较为熟练的使用Visio、Visual Studio、Overleaf、Origin、PyCharm等工具]    
 )
 #resume_desc(
   "知识领域",
