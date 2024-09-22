@@ -41,10 +41,10 @@
   "学习成绩优秀，大一绩点：4.2，4.0，大二绩点：3.9，3.62, 电路原理90分，C语言的编程98分",
   "2022.09 -- 2026.06（预计）"
 )
-#resume_section("发表论文")             
-- [2024.8]*刘辉*，梁爱华—— 复杂光照环境下基于机器视觉的智能机器人循迹控制，《_*第二十八届网络新技术与应用年会*_》，已录取，第一作者.
+#resume_section("发表论文")
 
-- [2024.9]*Liu Hui*，Huang Xiyuan，Gu Jiacheng，Shi Junjie，Feng Tongtong，He Ning—— TCDformer-based Momentum Transfer Model for Long-term Sports Prediction，《_*Expert Systems with Applications*_》 ，With Editor，First Author.
+- [2024.8]*刘辉*，梁爱华—— 复杂光照环境下基于机器视觉的智能机器人循迹控制，《_*第二十八届网络新技术与应用年会*_》，已录取，第一作者.
+- [2024.9]*Hui Liu*，Xiyuan Huang，Jiacheng Gu，Junjie Shi，Tongtong Feng，Ning He—— TCDformer-based Momentum Transfer Model for Long-term Sports Prediction，《_*Expert Systems with Applications*_》 ，With Editor，First Author.
 #resume_section([项目经历])
 #resume_item(
   "高性能无人机的洪涝救援系统",
@@ -52,6 +52,8 @@
   [挑战杯、互联网+项目],  
   "2024.1 -- 2024.7"
 )
+
+
 #resume_desc(
   "项目简介",
   "用于洪涝救援的高性能无人机，具备快速部署、高可靠性和长效作业能力，结合多模态感知和智能导航技术，实现复杂环境下的精准监测、评估和搜救。"
@@ -71,14 +73,6 @@
        [“挑战杯”中国大学生创业计划竞赛北京市区主赛道],[铜奖],[2024],[中国“互联网+”大学生创新创业大赛],[三等奖],[2024],
        [“西门子杯”中国智能制造挑战赛北京市二等奖],[二等奖],[2023], 
        [第十四届蓝桥杯全国软件和信息技术专业人才大赛省赛C/C++语言],[三等奖],[2023],[全国大学生节能减排社会实践与科技竞赛比赛],[三等奖],[2024],[校级物理竞赛],[三等奖],[2023],[校级编程比赛],[一等奖],[2023],[校级奖学金],[三等奖],[2023])     
-
-
-#resume_desc(
-  "数学建模竞赛",
-  [参加过多届数学建模竞赛]    
-)
-
-
 #resume_section([专业技能])
 
 #resume_desc(    
