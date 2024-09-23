@@ -91,7 +91,7 @@
 )
 #resume_desc(
   "知识领域",                     
-  [学习并知道计算机领域的前沿论文，如：_Attention is all you need_,_Soft Actor-Critic_,_BERT: Pre-training of Deep Bidirectional Transformers for
+  [了解计算机领域的前沿论文，如：_Attention is all you need_,_Soft Actor-Critic_,_BERT: Pre-training of Deep Bidirectional Transformers for
 Language Understanding_,_Denoising Diffusion Implicit Models_,and _Improved Denoising Diffusion Probabilistic Models_]                     
 )
 #resume_desc(
