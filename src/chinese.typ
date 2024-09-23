@@ -51,19 +51,15 @@
 
 - [2024.8]*刘辉*，梁爱华;复杂光照环境下基于机器视觉的智能机器人循迹控制，《_*第二十八届网络新技术与应用年会*_》，已录取，第一作者.
 - [2024.9]*Hui Liu*,Xiyuan Huang,Jiacheng Gu,Junjie Shi,Tongtong Feng,Ning He;TCDformer-based Momentum Transfer Model for Long-term Sports Prediction,"_*Expert Systems with Applications*_" ,Under Review,First Author.
-#resume_section([项目经历])    
-//#resume_item(
-//  "高性能无人机的洪涝救援系统",     
-//  [*项目负责人*，主要完成人],
-//  "北京联合大学·挑战杯、互联网+项目",     
-//  [2024.1 -- 2024.7]
-//)
+#resume_section([项目经历])
+    
 #resume_item(
-  "一种基于深度学习的摸鱼方法",
-  "项目负责人，主要完成人",
-  [家里蹲大学·大创项目],
-  "2021.11 -- 2022.11"
+  "高性能无人机的洪涝救援系统",     
+  [  *项目负责人*，主要完成人],
+  "北京联合大学·挑战杯、互联网+项目",     
+  [2024.1 -- 2024.7]
 )
+
 #resume_desc(
   "项目简介",
   "搭建了“高性能无人机的洪涝救援系统”。 在GPS拒止的条件下，通过卫星－无人机跨视角定位和多模态智能导航技术，实现洪涝救援场景中无人机精准定位、监测、评估和搜救等高可靠工作。"
