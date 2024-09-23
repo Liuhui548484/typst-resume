@@ -2,6 +2,11 @@
 #import "../template/template.typ": *;
 #show: template;
 
+#set text(
+    size: 12pt,
+    font: "Centaur"
+)
+
 #init(
     name: "刘辉", 
     // 插入图片功能尚未支持
