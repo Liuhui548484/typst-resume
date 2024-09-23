@@ -52,11 +52,11 @@
 - [2024.8]*刘辉*，梁爱华;复杂光照环境下基于机器视觉的智能机器人循迹控制，《_*第二十八届网络新技术与应用年会*_》，已录取，第一作者.
 - [2024.9]*Hui Liu*,Xiyuan Huang,Jiacheng Gu,Junjie Shi,Tongtong Feng,Ning He;TCDformer-based Momentum Transfer Model for Long-term Sports Prediction,"_*Expert Systems with Applications*_" ,Under Review,First Author.
 #resume_section([项目经历])    
-resume_item(  
-  "高性能无人机的洪涝救援系统",   
+#resume_item(    
+  "高性能无人机的洪涝救援系统",       
   [*项目负责人*，主要完成人],          
   [挑战杯、互联网+项目],  
-  "2024.1 -- 2024.7"
+  "2024.1 -- 2024.7"    
 )
 #resume_desc(
   "项目简介",
@@ -89,8 +89,8 @@ resume_item(  
 )
 #resume_desc(
   "知识领域",                     
-  [学习并知道计算机领域的前沿技术，如：_Attention is all you need_,_Soft Actor-Critic_,_BERT: Pre-training of Deep Bidirectional Transformers for
-Language Understanding_,_Improved Denoising Diffusion Probabilistic Models_]                     
+  [学习并知道计算机领域的前沿论文，如：_Attention is all you need_,_Soft Actor-Critic_,_BERT: Pre-training of Deep Bidirectional Transformers for
+Language Understanding_,_Denoising Diffusion Implicit Models_,and _Improved Denoising Diffusion Probabilistic Models_]                     
 )
 #resume_desc(
   "外语能力",
