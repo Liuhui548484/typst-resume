@@ -50,8 +50,7 @@
 #resume_section("发表论文")
 
 - [2024.8]*刘辉*，梁爱华  ;  复杂光照环境下基于机器视觉的智能机器人循迹控制 ，《_*第二十八届网络新技术与应用年会*_》，已录取，第一作者.
-- [2024.9]*Hui Liu* , Xiyuan Huang , Jiacheng Gu , Junjie Shi , Tongtong Feng , Ning He ; TCDformer-based Momentum Transfer Model for Long-term Sports Prediction , _*Expert Systems with Applications*_ (中科院一区TOP),Under Review,First Author.
-
+- [2024.9]*Hui Liu* , Xiyuan Huang , Jiacheng Gu , Junjie Shi , Tongtong Feng , Ning He ; TCDformer-based Momentum Transfer Model for Long-term Sports Prediction , _*Expert Systems with Applications*_ (中科院一区TOP) , Under Review , First Author .
 #resume_section([项目经历])
     
 #resume_item(
@@ -94,7 +93,7 @@
 )
 #resume_desc(
   "知识领域",                     
-  "已学习计算机领域;  _Attention is all you need_  ;  _Soft Actor-Critic_  ;  _BERT: Pre-training of Deep Bidirectional Transformers for
+  "已学习多个并了解计算机领域:  _Attention is all you need_  ;  _Soft Actor-Critic_  ;  _BERT: Pre-training of Deep Bidirectional Transformers for
 Language Understanding_  ;  _Denoising Diffusion Implicit Models_  ;  _Improved Denoising Diffusion Probabilistic Models_"                    
 )
 #resume_desc(
