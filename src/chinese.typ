@@ -49,7 +49,7 @@
 
 #resume_section("发表论文")
 
-- [2024.8]*刘辉*，梁爱华 ; 复杂光照环境下基于机器视觉的智能机器人循迹控制 ，《_*第二十八届网络新技术与应用年会*_》，已录取，第一作者.
+- [2024.8]*刘辉*，梁爱华  ;  复杂光照环境下基于机器视觉的智能机器人循迹控制 ，《_*第二十八届网络新技术与应用年会*_》，已录取，第一作者.
 - [2024.9]*Hui Liu*,Xiyuan Huang,Jiacheng Gu,Junjie Shi,Tongtong Feng,Ning He ; TCDformer-based Momentum Transfer Model for Long-term Sports Prediction , _*Expert Systems with Applications*_ (中科院一区TOP),Under Review,First Author.
 
 #resume_section([项目经历])
@@ -71,7 +71,7 @@
 )
 #resume_desc(
   "项目成果",
-  "“挑战杯”中国大学生创业计划竞赛北京市区主赛道铜奖、中国“互联网+”大学生创新创业大赛市级三等奖"       
+  "“挑战杯”中国大学生创业计划竞赛北京市区主赛道铜奖、“互联网+”中国大学生创新创业大赛市级三等奖"       
 )
 
 #resume_section([竞赛经历与所获表彰])
