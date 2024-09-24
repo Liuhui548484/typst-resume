@@ -42,14 +42,19 @@
 
 #resume_item(
   "北京联合大学",
-  "大三 | 电气工程及其自动化 | 2022.9-2026.6(预计)",     
-  "学习成绩优秀，大一绩点：4.2，4.0，大二绩点：3.9，3.62, 电路原理90分，C语言编程98分",
+  "大三 | 电气工程及其自动化 | 2022.9-2026.6",     
+  "学习成绩优秀  综合绩点3.93  电路原理90分  C语言编程98分",
+
+
   " "
 )
 
 #resume_section("发表论文")
+#resume_item(
+"[1] *刘辉*，梁爱华；复杂光照环境下基于机器视觉的智能机器人循迹控制，《_*第二十八届网络新技术与应用年会*_》，已接收",
+"2024.8"
+) 
 
-- [2024.8]*刘辉*，梁爱华  ;  复杂光照环境下基于机器视觉的智能机器人循迹控制 ，《_*第二十八届网络新技术与应用年会*_》，已录取，第一作者.
 - [2024.9]*Hui Liu* , Xiyuan Huang , Jiacheng Gu , Junjie Shi , Tongtong Feng , Ning He ; TCDformer-based Momentum Transfer Model for Long-term Sports Prediction , _*Expert Systems with Applications*_ (中科院一区TOP) , Under Review , First Author .
 #resume_section([项目经历])
     
