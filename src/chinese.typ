@@ -93,8 +93,7 @@
 )
 #resume_desc(
   "知识领域",                     
-  "已学习多个并了解计算机领域:  _Attention is all you need_  ;  _Soft Actor-Critic_  ;  _BERT: Pre-training of Deep Bidirectional Transformers for
-Language Understanding_  ;  _Denoising Diffusion Implicit Models_  ;  _Improved Denoising Diffusion Probabilistic Models_"                    
+  "已学习多个并了解计算机领域:  _Attention is all you need_  ;  _Soft Actor-Critic_  ;  _BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding_  ;  _Denoising Diffusion Implicit Models_  ;  _Improved Denoising Diffusion Probabilistic Models_"                    
 )
 #resume_desc(
   "外语能力",
